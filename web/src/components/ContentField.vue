@@ -1,5 +1,4 @@
 <template>
-    <!--页面卡片格式-->
     <div class="container content-field">
         <div class="card">
             <div class="card-body">
@@ -10,10 +9,9 @@
 </template>
 
 <script>
-
 </script>
 
-<style>
+<style scoped>
 div.content-field {
     margin-top: 20px;
 }
