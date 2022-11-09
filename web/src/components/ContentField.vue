@@ -1,0 +1,20 @@
+<template>
+    <!--页面卡片格式-->
+    <div class="container content-field">
+        <div class="card">
+            <div class="card-body">
+                <slot></slot>
+            </div>
+        </div>
+    </div>
+</template>
+
+<script>
+
+</script>
+
+<style>
+div.content-field {
+    margin-top: 20px;
+}
+</style>
